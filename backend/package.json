@@ -1,0 +1,12 @@
+{
+  "name": "catalogo-de-livros-backend",
+  "version": "1.0.0",
+  "description": "Backend para o catálogo de livros",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
